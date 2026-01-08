@@ -1,0 +1,50 @@
+﻿'''
+PROGRAMMING QUESTIONS PUBLIC TEST CASES
+'''
+
+
+## QUESTION 3.1
+
+
+## INPUT
+Scrolls = [5, 6, 6, 7, 7, 7]
+identifier = 7
+## OUTPUT
+[3, 5]
+
+
+## INPUT
+nums = [7, 7, 7, 7, 9]
+target = 7
+## OUTPUT
+[0, 3]
+
+
+## INPUT
+nums = [2, 3, 4, 5, 6, 8, 9]
+target = 4
+## OUTPUT
+[2, 2]
+
+
+
+
+## QUESTION 4.1
+
+
+## INPUT
+n = 100
+## OUTPUT
+54
+
+
+## INPUT
+n = 15
+## OUTPUT
+8
+
+
+## INPUT
+n = 10
+## OUTPUT
+8
